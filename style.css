@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(255, 180, 193);
+    font-size: 64px;
+}
+body {
+    background-color: rgb(52, 158, 168);
+}
+p {
+    color:azure;
+    font-size: 24px;
+}
+.heading {
+    color: pink;
+}
+.awesome {
+    color: yellow;
+    font-size: 24px;
+}
+#unique {
+    color:beige;
+}
